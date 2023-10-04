@@ -1,0 +1,14 @@
+{
+  "name": "graphql-playground",
+  "version": "1.0.0",
+  "description": "playground for graphql queries",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "graphpack",
+    "build": "graphpack build"
+  },
+  "devDependencies": {
+    "graphpack": "^1.0.9"
+  }
+}
